@@ -1,0 +1,10 @@
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe.config
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.exe
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\bin\Debug\Projekat.pdb
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.AssemblyReference.cache
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.Form1.resources
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.Properties.Resources.resources
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.GenerateResource.cache
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csproj.CoreCompileInputs.cache
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.exe
+C:\Users\ceda\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
